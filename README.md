@@ -1,1 +1,0 @@
-# bootusb-autoscript
